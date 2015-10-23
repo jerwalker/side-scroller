@@ -1,0 +1,18 @@
+html, body {
+    height: 100%;
+}
+
+.hills {
+    height: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+.hero {
+    position: fixed;
+    left: 50%;
+    bottom: 20%;
+    margin-left: -67px;
+    -webkit-transform: rotate(60deg);
+}
